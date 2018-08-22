@@ -3,6 +3,8 @@ title: "Summary of obtained results and closing"
 teaching: 10
 exercises: 
 questions:
+- "What is the best assembly?"
+- "How did you come to that conclusion?"
 objectives:
 keypoints:
 ---

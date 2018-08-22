@@ -2,7 +2,9 @@
 title: "Introduction"
 teaching: 20
 exercises: 0
-questions:
+questions: 
+- "Introduction into long read sequencing"
+- "What is a de novo assembly?" 
 objectives:
 - "Topics and technologies used during this workshop"
 keypoints:

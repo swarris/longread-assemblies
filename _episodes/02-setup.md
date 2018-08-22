@@ -3,6 +3,7 @@ title: "Setup for the workshop"
 teaching: 10
 exercises: 10
 questions: 
+- "Installation of the VirtualBox image"
 objectives:
 - "To have the Ubuntu VM running in VirtualBox, or"
 - "To know which tools to used and where to find the data for local installation"
@@ -18,7 +19,7 @@ For the workshop we use Ubuntu Linux as the main Operating System. We have creat
 
 ## Installing the VirtualBox image
 
-VirtualBox is a virtualization tool from VMWare and is [freely available](https://www.virtualbox.org/wiki/Downloads). The Windows systems in use for this workshop at Wageningen UR already have it installed.
+VirtualBox is a virtualization tool from VMWare and is [freely available](https://www.virtualbox.org/wiki/Downloads). 
 
 Please download the [The Ubuntu image](https://www.dropbox.com/s/pi8t7gh43itbi64/GT-workshop.vdi?dl=0) and store it on a local hard drive. A network location usually does not work, so it is better to store it locally.
 
