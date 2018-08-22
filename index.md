@@ -4,7 +4,7 @@ root: .  # Is the only page that don't follow the partner /:path/index.html
 permalink: index.html  # Is the only page that don't follow the partner /:path/index.html
 title: "Raw data, assemblies and comparisons"
 ---
-<h4>Genetwister Technologies B.V. and Wageningen University & Research are pleased to invite you to <strong>Long Read Sequencing Genomics Workshop</strong>.</h4>
+<h4><a href="https://www.genetwister.nl/">Genetwister Technologies B.V.</a> and <a href="http://www.applied-bioinformatics.nl/">Applied Bioinformatics, Wageningen University & Research</a> are pleased to invite you to <strong>Long Read Sequencing Genomics Workshop</strong>.</h4>
 
 <h2 id="general">General Information</h2>
 
