@@ -2,6 +2,7 @@
 layout: lesson
 root: .  # Is the only page that don't follow the partner /:path/index.html
 permalink: index.html  # Is the only page that don't follow the partner /:path/index.html
+title: "Long Read Sequencing Genomics Workshop"
 ---
 <h4>Genetwister Technologies B.V. and Wageningen University & Research are pleased to invite you to <strong>{{page.title}}</strong>.</h4>
 
