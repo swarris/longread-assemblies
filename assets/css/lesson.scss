@@ -116,6 +116,7 @@ $codeblock-padding: 5px !default;
 .prereq{ @include bkSetup($color-prereq, "\e124"); }
 .solution{ @include bkSetup($color-solution, "\e105"); }
 .testimonial{ @include bkSetup($color-testimonial, "\e143"); }
+.apps{ @include bkSetup($color-apps, "\e101"); }
 
 .callout h3,
 .challenge h3,
